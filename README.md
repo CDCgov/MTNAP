@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains source code and configuration related to [MEBT](https://cdcgov.github.io/MEBT/)'s Microbial Transmission Network Analytical Platform (MTNAP), a comprehensive set of tools to allow the construction and analysis of transmission networks based on user-specified criteria.
+This repository contains source code and configuration related to [MEBT](https://cdcgov.github.io/MEBT/)'s Microbial Transmission Network Analytic Platform (MTNAP), a comprehensive set of tools to allow the construction and analysis of transmission networks based on user-specified criteria.
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
