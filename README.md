@@ -1,4 +1,5 @@
-# Microbial Transmission Network Analytical Platform (MTNAP)
+![Microbial Transmission Network Analytic Platform](MTNAP_Logo.svg)
+# Microbial Transmission Network Analytic Platform (MTNAP)
 
 ## Overview
 
